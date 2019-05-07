@@ -60,8 +60,22 @@ namespace Lab_3___Invaders
                     gameTimer.Start();
                     return;
                 }
-            if (e.KeyCode == Keys.Space)
-                game.FireShot();
+
+            switch (e.KeyCode)
+            {
+                case Keys.R:
+                        game.FireShot(2);
+                    break;
+                case Keys.T:
+                        game.FireShot(4);
+                    break;
+                case Keys.Y:
+                        game.FireShot(6);
+                    break;
+            }
+           
+
+
             if (keysPressed.Contains(e.KeyCode))
                 keysPressed.Remove(e.KeyCode);
             keysPressed.Add(e.KeyCode);
@@ -97,6 +111,11 @@ namespace Lab_3___Invaders
             gameTimer.Stop();
             gameOver = true;
             Invalidate();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
 
 

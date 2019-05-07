@@ -96,9 +96,9 @@ namespace Lab_3___Invaders
             }
         }
 
-        public void FireShot()
+        public void FireShot( int mode)
         {
-            if (playerShots.Count < 2)
+            if (playerShots.Count < mode)
             {
                 Shot newShot = new Shot(
                     new Point((playerShip.Location.X + (playerShip.image.Width / 2))
@@ -106,6 +106,11 @@ namespace Lab_3___Invaders
                     Direction.Up, formArea);
                 playerShots.Add(newShot);
             }
+        }
+
+        public void Bomb()
+        {
+
         }
 
         public void Go()
