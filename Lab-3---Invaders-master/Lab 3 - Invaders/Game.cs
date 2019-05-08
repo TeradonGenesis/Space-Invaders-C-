@@ -110,7 +110,6 @@ namespace Lab_3___Invaders
 
         public void Bomb()
         {
-
         }
 
         public void Go()

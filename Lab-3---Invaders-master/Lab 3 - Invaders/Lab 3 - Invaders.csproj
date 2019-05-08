@@ -84,6 +84,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Obstacle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\bug1.png" />

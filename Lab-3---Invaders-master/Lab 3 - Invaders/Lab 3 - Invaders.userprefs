@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{908DD367-E004-45CF-A91B-04AE44B65C15}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab_2203_220-_220Invaders PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{908DD367-E004-45CF-A91B-04AE44B65C15}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab 3 - Invaders\Obstacle.cs">
+    <Files>
+      <File FileName="Lab 3 - Invaders\Direction.cs" Line="1" Column="1" />
+      <File FileName="Lab 3 - Invaders\Form1.cs" Line="45" Column="10" />
+      <File FileName="Lab 3 - Invaders\Game.cs" Line="33" Column="38" />
+      <File FileName="Lab 3 - Invaders\Obstacle.cs" Line="12" Column="4" />
+      <File FileName="Lab 3 - Invaders\Invader.cs" Line="54" Column="44" />
+      <File FileName="Lab 3 - Invaders\PlayerShip.cs" Line="12" Column="52" />
+      <File FileName="Lab 3 - Invaders\Program.cs" Line="18" Column="42" />
+      <File FileName="Lab 3 - Invaders\ShipType.cs" Line="1" Column="1" />
+      <File FileName="Lab 3 - Invaders\Shot.cs" Line="1" Column="1" />
+      <File FileName="Lab 3 - Invaders\Star.cs" Line="1" Column="1" />
+      <File FileName="Lab 3 - Invaders\Stars.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab_2203_220-_220Invaders PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
